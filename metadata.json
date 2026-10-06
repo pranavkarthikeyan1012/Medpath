@@ -1,0 +1,6 @@
+{
+  "name": "MedPath",
+  "description": "Intelligent Healthcare Continuity & Care Navigation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
